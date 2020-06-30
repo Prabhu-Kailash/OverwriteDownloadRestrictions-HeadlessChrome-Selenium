@@ -46,4 +46,4 @@ Copyright (C) 2020 Kailash Prabhu
 
 This is made public just to show on how to overwrite built in restrictions/function in headless chrome/chromedriver. It's currently being used in our organization.
 
-Happy to accept any pull source code and recode it based on your organization, the main reason why this is made public.
+Happy to accept any pull and recode it based on your organization, the main reason why this is made public.
